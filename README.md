@@ -2,8 +2,7 @@
 Simple lane detection with MATLAB
 
 ### Diagram
-![image](https://github.com/cj2yt11/lane_detection/assets/147161189/273ecfd9-74fb-4429-b4f4-8a695b8d7a46)
+![image](https://github.com/cjt10136/lane_detection/assets/147172598/a149e112-4512-43f9-8dbe-7dec6b99062b)
 
 ### Result
-![image](https://github.com/cj2yt11/lane_detection/assets/147161189/5996a35c-23e4-492a-bd09-d43118355de7)
-
+![image](https://github.com/cjt10136/lane_detection/assets/147172598/de4ff634-1491-434e-8d5c-8ec41d24fc18)
